@@ -1,4 +1,4 @@
-DEMO VIDEO FOR APP CAN BE FOUND AT https://youtu.be/W0sveP9i6s8
+DEMO VIDEO FOR APP CAN BE FOUND AT https://youtu.be/12YwQWFYr50
 
 
  Sample Android app for Capstone Research Milestone
